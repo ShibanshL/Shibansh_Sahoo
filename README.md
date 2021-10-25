@@ -1,6 +1,6 @@
 # Shibansh-Sahoo ;
 
-# This is my portfolio website;
+# This is my portfolio website ;
 
 # I made this with html,css and javascript with additional help from different kinds of animation js;
 
